@@ -1,4 +1,5 @@
 
+import argparse
 import json
 import time
 from datetime import date, datetime, timedelta, timezone
@@ -16,19 +17,43 @@ from azure.storage.blob import BlobServiceClient
 ACCOUNT_NAME = "stnhlfantasydev2026"
 CONTAINER_NAME = "bronze"
 
-SEASON_ID = 20252026
 GAME_TYPE_ID = 2
-
-START_DATE = date(2025, 10, 1)
-END_DATE = date(2026, 4, 30)
-
 CHUNK_DAYS = 7
 
 BASE_URL = "https://api.nhle.com/stats/rest/en/skater/summary"
 
 
 # --------------------------------------------------
-# 1. CONNECT TO AZURE
+# 1. PARAMETERS
+# --------------------------------------------------
+
+parser = argparse.ArgumentParser(
+    description="Fetch historical NHL skater game logs"
+)
+
+parser.add_argument(
+    "--season",
+    type=int,
+    required=True,
+    help="NHL season ID, e.g. 20242025"
+)
+
+args = parser.parse_args()
+
+SEASON_ID = args.season
+
+season_start_year = SEASON_ID // 10000
+season_end_year = SEASON_ID % 10000
+
+START_DATE = date(season_start_year, 10, 1)
+END_DATE = date(season_end_year, 4, 30)
+
+print(f"Starting ingestion for season {SEASON_ID}")
+print(f"Date range: {START_DATE} to {END_DATE}")
+
+
+# --------------------------------------------------
+# 2. CONNECT TO AZURE
 # --------------------------------------------------
 
 account_url = f"https://{ACCOUNT_NAME}.blob.core.windows.net"
@@ -48,7 +73,7 @@ print("Azure connection successful!")
 
 
 # --------------------------------------------------
-# 2. FETCH HISTORICAL GAME LOGS
+# 3. FETCH HISTORICAL GAME LOGS
 # --------------------------------------------------
 
 def fetch_period(start_date, end_date):
@@ -120,7 +145,7 @@ while period_start <= END_DATE:
 
 
 # --------------------------------------------------
-# 3. BUILD BRONZE DATASET
+# 4. BUILD BRONZE DATASET
 # --------------------------------------------------
 
 bronze_data = {
@@ -141,7 +166,7 @@ bronze_data = {
 
 
 # --------------------------------------------------
-# 4. SAVE LOCAL RAW DATA
+# 5. SAVE LOCAL RAW DATA
 # --------------------------------------------------
 
 output_dir = Path("data/bronze")
@@ -164,12 +189,10 @@ print(f"\nLocal file saved: {output_file}")
 
 
 # --------------------------------------------------
-# 5. UPLOAD TO AZURE BRONZE
+# 6. UPLOAD TO AZURE BRONZE
 # --------------------------------------------------
 
-blob_name = (
-    f"nhl/skater_game_logs_{SEASON_ID}.json"
-)
+blob_name = f"nhl/skater_game_logs_{SEASON_ID}.json"
 
 blob_client = container_client.get_blob_client(blob_name)
 
@@ -188,7 +211,7 @@ print(f"\nAzure upload successful: {blob_name}")
 
 
 # --------------------------------------------------
-# 6. FINAL SUMMARY
+# 7. FINAL SUMMARY
 # --------------------------------------------------
 
 unique_games = len({

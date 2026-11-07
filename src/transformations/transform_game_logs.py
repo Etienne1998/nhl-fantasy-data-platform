@@ -1,4 +1,5 @@
 
+import argparse
 import json
 from pathlib import Path
 
@@ -15,7 +16,24 @@ ACCOUNT_NAME = "stnhlfantasydev2026"
 BRONZE_CONTAINER = "bronze"
 SILVER_CONTAINER = "silver"
 
-SEASON_ID = 20252026
+
+# --------------------------------------------------
+# 1. PARAMETERS
+# --------------------------------------------------
+
+parser = argparse.ArgumentParser(
+    description="Transform NHL Bronze game logs into Silver"
+)
+
+parser.add_argument(
+    "--season",
+    type=int,
+    required=True,
+    help="NHL season ID, e.g. 20242025"
+)
+
+args = parser.parse_args()
+SEASON_ID = args.season
 
 INPUT_FILE = Path(
     f"data/bronze/skater_game_logs_{SEASON_ID}.json"
@@ -25,9 +43,11 @@ OUTPUT_FILE = Path(
     f"data/silver/skater_game_logs_{SEASON_ID}.json"
 )
 
+print(f"Transforming season {SEASON_ID}")
+
 
 # --------------------------------------------------
-# 1. CONNECT TO AZURE
+# 2. CONNECT TO AZURE
 # --------------------------------------------------
 
 account_url = f"https://{ACCOUNT_NAME}.blob.core.windows.net"
@@ -51,7 +71,7 @@ print("Azure connection successful!")
 
 
 # --------------------------------------------------
-# 2. LOAD BRONZE DATA
+# 3. LOAD BRONZE DATA
 # --------------------------------------------------
 
 if not INPUT_FILE.exists():
@@ -63,14 +83,13 @@ with open(INPUT_FILE, "r", encoding="utf-8") as file:
     bronze_data = json.load(file)
 
 records = bronze_data["data"]
-
 df = pd.DataFrame(records)
 
 print(f"\nBronze records loaded: {len(df)}")
 
 
 # --------------------------------------------------
-# 3. SELECT AND STANDARDIZE COLUMNS
+# 4. SELECT AND STANDARDIZE COLUMNS
 # --------------------------------------------------
 
 column_mapping = {
@@ -111,12 +130,11 @@ df = df[available_columns].rename(
     columns=column_mapping
 )
 
-# Add season information
 df["season_id"] = SEASON_ID
 
 
 # --------------------------------------------------
-# 4. DATA TYPES
+# 5. DATA TYPES
 # --------------------------------------------------
 
 df["game_date"] = pd.to_datetime(
@@ -153,7 +171,6 @@ for column in integer_columns:
             errors="coerce"
         ).astype("Int64")
 
-
 float_columns = [
     "shooting_pct",
     "faceoff_win_pct"
@@ -168,7 +185,7 @@ for column in float_columns:
 
 
 # --------------------------------------------------
-# 5. DATA QUALITY CHECKS
+# 6. DATA QUALITY CHECKS
 # --------------------------------------------------
 
 initial_count = len(df)
@@ -202,7 +219,7 @@ df = df.sort_values(
 
 
 # --------------------------------------------------
-# 6. BUILD SILVER DATASET
+# 7. BUILD SILVER DATASET
 # --------------------------------------------------
 
 silver_data = {
@@ -222,7 +239,7 @@ silver_data = {
 
 
 # --------------------------------------------------
-# 7. SAVE LOCAL SILVER DATA
+# 8. SAVE LOCAL SILVER DATA
 # --------------------------------------------------
 
 OUTPUT_FILE.parent.mkdir(
@@ -242,12 +259,10 @@ print(f"\nSilver file saved: {OUTPUT_FILE}")
 
 
 # --------------------------------------------------
-# 8. UPLOAD TO AZURE SILVER
+# 9. UPLOAD TO AZURE SILVER
 # --------------------------------------------------
 
-blob_name = (
-    f"nhl/skater_game_logs_{SEASON_ID}.json"
-)
+blob_name = f"nhl/skater_game_logs_{SEASON_ID}.json"
 
 blob_client = silver_client.get_blob_client(blob_name)
 
@@ -261,13 +276,14 @@ print(f"Azure upload successful: {blob_name}")
 
 
 # --------------------------------------------------
-# 9. FINAL SUMMARY
+# 10. FINAL SUMMARY
 # --------------------------------------------------
 
 print("\n--------------------------------")
 print("SILVER TRANSFORMATION COMPLETED!")
 print("--------------------------------")
 
+print(f"Season: {SEASON_ID}")
 print(f"Records processed: {initial_count}")
 print(f"Duplicates removed: {duplicates_removed}")
 print(f"Final records: {len(df)}")
