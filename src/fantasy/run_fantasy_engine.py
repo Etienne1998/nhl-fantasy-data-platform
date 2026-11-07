@@ -9,7 +9,7 @@ from azure.storage.blob import BlobServiceClient
 
 from src.fantasy.calculate_fantasy_points import (
     calculate_fantasy_points,
-    load_scoring_profile
+    load_scoring_profiles
 )
 
 
@@ -20,7 +20,7 @@ CONTAINER_NAME = "gold"
 
 
 def upload_to_azure(file_path: Path, blob_name: str):
-    """Upload a Gold file to Azure Data Lake Storage."""
+    """Upload a Gold file to Azure."""
 
     credential = AzureCliCredential()
 
@@ -55,8 +55,8 @@ def load_silver_data(filename: str) -> pd.DataFrame:
     return pd.DataFrame(data)
 
 
-def save_gold_data(data: pd.DataFrame, filename: str):
-    """Save rankings locally and upload them to Azure Gold."""
+def save_gold_data(data: pd.DataFrame, filename: str, timestamp: str):
+    """Save rankings locally and upload to Azure Gold."""
 
     gold_path = PROJECT_ROOT / "data" / "gold"
     gold_path.mkdir(parents=True, exist_ok=True)
@@ -70,12 +70,9 @@ def save_gold_data(data: pd.DataFrame, filename: str):
         force_ascii=False
     )
 
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     blob_name = f"nhl/{filename.replace('.json', '')}_{timestamp}.json"
 
     upload_to_azure(output_path, blob_name)
-
-    print(f"Local Gold file: {output_path}")
 
 
 def main():
@@ -87,72 +84,72 @@ def main():
     print(f"Skaters loaded: {len(skaters)}")
     print(f"Goalies loaded: {len(goalies)}")
 
-    # 2. Load scoring profile
-    profile = load_scoring_profile("espn_custom")
+    # 2. Load and validate all scoring profiles
+    profiles = load_scoring_profiles()
 
-    # 3. Calculate fantasy points
-    ranked_skaters = calculate_fantasy_points(
-        skaters,
-        profile,
-        player_type="skaters"
-    )
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
-    ranked_goalies = calculate_fantasy_points(
-        goalies,
-        profile,
-        player_type="goalies"
-    )
+    # 3. Process every profile
+    for profile in profiles:
 
-    # 4. Save and upload Gold rankings
-    save_gold_data(
-        ranked_skaters,
-        "fantasy_skaters_rankings.json"
-    )
+        profile_id = profile["profile_id"]
+        profile_name = profile["profile_name"]
 
-    save_gold_data(
-        ranked_goalies,
-        "fantasy_goalies_rankings.json"
-    )
+        print("\n" + "=" * 60)
+        print(f"PROCESSING PROFILE: {profile_name}")
+        print("=" * 60)
 
-    # 5. Display top 20 skaters
-    skater_columns = [
-        "player_name",
-        "team",
-        "position",
-        "games_played",
-        "goals",
-        "assists",
-        "fantasy_points"
-    ]
+        # Calculate skater rankings
+        ranked_skaters = calculate_fantasy_points(
+            skaters,
+            profile,
+            player_type="skaters"
+        )
 
-    print("\nTOP 20 FANTASY SKATERS\n")
-    print(
-        ranked_skaters[skater_columns]
-        .head(20)
-        .to_string(index=False)
-    )
+        # Calculate goalie rankings
+        ranked_goalies = calculate_fantasy_points(
+            goalies,
+            profile,
+            player_type="goalies"
+        )
 
-    # 6. Display top 20 goalies
-    goalie_columns = [
-        "player_name",
-        "team",
-        "games_played",
-        "wins",
-        "saves",
-        "goals_against",
-        "fantasy_points"
-    ]
+        # Save skater rankings
+        save_gold_data(
+            ranked_skaters,
+            f"{profile_id}_skaters_rankings.json",
+            timestamp
+        )
 
-    print("\nTOP 20 FANTASY GOALIES\n")
-    print(
-        ranked_goalies[goalie_columns]
-        .head(20)
-        .to_string(index=False)
-    )
+        # Save goalie rankings
+        save_gold_data(
+            ranked_goalies,
+            f"{profile_id}_goalies_rankings.json",
+            timestamp
+        )
+
+        # Display top 5 skaters
+        print("\nTOP 5 SKATERS")
+        print(
+            ranked_skaters[
+                ["player_name", "team", "fantasy_points"]
+            ]
+            .head(5)
+            .to_string(index=False)
+        )
+
+        # Display top 5 goalies
+        print("\nTOP 5 GOALIES")
+        print(
+            ranked_goalies[
+                ["player_name", "team", "fantasy_points"]
+            ]
+            .head(5)
+            .to_string(index=False)
+        )
 
     print("\nFANTASY ENGINE COMPLETED!")
-    print(f"Skaters ranked: {len(ranked_skaters)}")
-    print(f"Goalies ranked: {len(ranked_goalies)}")
+    print(f"Profiles processed: {len(profiles)}")
+    print(f"Total ranking files generated: {len(profiles) * 2}")
 
 
 if __name__ == "__main__":

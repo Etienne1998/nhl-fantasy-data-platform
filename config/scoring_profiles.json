@@ -1,3 +1,4 @@
+
 {
   "profiles": [
     {
@@ -25,6 +26,64 @@
           "goals_against": -1.5,
           "saves": 0.25,
           "shutouts": 3,
+          "overtime_losses": 1
+        }
+      }
+    },
+    {
+      "profile_id": "offensive",
+      "profile_name": "Offensive Focus",
+      "description": "Experimental profile emphasizing offensive production",
+      "scoring": {
+        "skaters": {
+          "goals": 4,
+          "assists": 2,
+          "plus_minus": 0,
+          "penalty_minutes": 0,
+          "power_play_goals": 1,
+          "power_play_assists": 0.5,
+          "short_handed_goals": 2,
+          "short_handed_assists": 1,
+          "game_winning_goals": 1,
+          "hat_tricks": 2,
+          "shots_on_goal": 0.1,
+          "hits": 0.1,
+          "blocked_shots": 0.1
+        },
+        "goalies": {
+          "wins": 4,
+          "goals_against": -2,
+          "saves": 0.2,
+          "shutouts": 4,
+          "overtime_losses": 0
+        }
+      }
+    },
+    {
+      "profile_id": "peripheral",
+      "profile_name": "Peripheral Focus",
+      "description": "Experimental profile emphasizing peripheral statistics",
+      "scoring": {
+        "skaters": {
+          "goals": 2,
+          "assists": 1,
+          "plus_minus": 0,
+          "penalty_minutes": 0,
+          "power_play_goals": 1,
+          "power_play_assists": 0.5,
+          "short_handed_goals": 2,
+          "short_handed_assists": 1,
+          "game_winning_goals": 1,
+          "hat_tricks": 1,
+          "shots_on_goal": 0.5,
+          "hits": 0.5,
+          "blocked_shots": 0.75
+        },
+        "goalies": {
+          "wins": 2,
+          "goals_against": -1,
+          "saves": 0.5,
+          "shutouts": 2,
           "overtime_losses": 1
         }
       }
