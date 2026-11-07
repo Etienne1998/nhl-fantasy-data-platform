@@ -1,3 +1,4 @@
+
 import json
 from pathlib import Path
 
@@ -24,11 +25,11 @@ def load_scoring_profile(profile_id: str) -> dict:
 
 def calculate_fantasy_points(
     players: pd.DataFrame,
-    scoring_rules: dict
+    scoring_rules: dict,
+    player_type: str
 ) -> pd.DataFrame:
-    """Calculate fantasy points for each skater."""
 
-    rules = scoring_rules["scoring"]["skaters"]
+    rules = scoring_rules["scoring"][player_type]
 
     available_stats = [
         stat for stat in rules
@@ -41,7 +42,7 @@ def calculate_fantasy_points(
     ]
 
     if unsupported_stats:
-        print("\nWARNING: Unsupported statistics:")
+        print(f"\nWARNING: Unsupported {player_type} statistics:")
         for stat in unsupported_stats:
             print(f" - {stat}")
 
@@ -53,7 +54,8 @@ def calculate_fantasy_points(
             result[stat].fillna(0) * rules[stat]
         )
 
-    print(f"\nSupported statistics: {len(available_stats)}")
+    print(f"\n{player_type.upper()} SCORING")
+    print(f"Supported statistics: {len(available_stats)}")
     print(f"Unsupported statistics: {len(unsupported_stats)}")
 
     return result.sort_values(
