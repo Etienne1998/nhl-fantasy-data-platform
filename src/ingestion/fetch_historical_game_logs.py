@@ -46,7 +46,7 @@ season_start_year = SEASON_ID // 10000
 season_end_year = SEASON_ID % 10000
 
 START_DATE = date(season_start_year, 10, 1)
-END_DATE = date(season_end_year, 4, 30)
+END_DATE = date(season_end_year, 5, 7)
 
 print(f"Starting ingestion for season {SEASON_ID}")
 print(f"Date range: {START_DATE} to {END_DATE}")
