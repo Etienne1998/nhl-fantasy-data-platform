@@ -221,3 +221,28 @@ __marimo__/
 
 # Raw and processed data
 data/
+
+# ============================================================
+# NHL FANTASY DATA PLATFORM - PROJECT SPECIFIC
+# ============================================================
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+credentials/
+
+# Azure local configuration
+.azure/
+
+# Local logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Model experiment artifacts
+mlruns/
+outputs/
