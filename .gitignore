@@ -246,3 +246,11 @@ logs/
 # Model experiment artifacts
 mlruns/
 outputs/
+
+# Experimental model artifacts and analysis outputs
+models/random_forest/
+models/ros_random_forest/
+models/ros_availability/*.csv
+models/ros_availability/permutation_importance/
+models/ros_per_game/*.csv
+src/modeling/analyze_ros_availability_baseline.py
