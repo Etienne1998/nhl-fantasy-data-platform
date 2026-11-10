@@ -4,6 +4,13 @@ name: Weekly NHL Fantasy Report
 on:
   workflow_dispatch:
 
+  schedule:
+    # 8 AM Montreal during daylight saving time
+    - cron: "0 12 * * 1"
+
+    # 8 AM Montreal during standard time
+    - cron: "0 13 * * 1"
+
 permissions:
   contents: read
 
@@ -23,7 +30,21 @@ jobs:
       - name: Install timezone database
         run: pip install tzdata
 
+      - name: Check Montreal local time
+        id: schedule
+        if: github.event_name == 'schedule'
+        run: |
+          HOUR=$(TZ=America/Montreal date +%H)
+
+          if [ "$HOUR" = "08" ]; then
+            echo "send=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "send=false" >> "$GITHUB_OUTPUT"
+            echo "Skipping: not 8 AM in Montreal."
+          fi
+
       - name: Generate and send weekly report
+        if: github.event_name == 'workflow_dispatch' || steps.schedule.outputs.send == 'true'
         env:
           MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
           MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
