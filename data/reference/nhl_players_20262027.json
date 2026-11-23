@@ -1,0 +1,5826 @@
+[
+    {
+        "player_id": 8478421,
+        "player_name": "A.J. Greer",
+        "team": "ANA",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477932,
+        "player_name": "Aaron Ekblad",
+        "team": "FLA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482691,
+        "player_name": "Aatu Räty",
+        "team": "VAN",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481726,
+        "player_name": "Adam Edstrom",
+        "team": "NSH",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483686,
+        "player_name": "Adam Engstrom",
+        "team": "MTL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484166,
+        "player_name": "Adam Fantilli",
+        "team": "CBJ",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479323,
+        "player_name": "Adam Fox",
+        "team": "NYR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478874,
+        "player_name": "Adam Gaudette",
+        "team": "SJS",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484790,
+        "player_name": "Adam Jiricek",
+        "team": "STL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483609,
+        "player_name": "Adam Klapka",
+        "team": "CGY",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476457,
+        "player_name": "Adam Larsson",
+        "team": "SEA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476392,
+        "player_name": "Adam Lowry",
+        "team": "WPG",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476917,
+        "player_name": "Adam Pelech",
+        "team": "NYI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482482,
+        "player_name": "Adam Wilsby",
+        "team": "NSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478499,
+        "player_name": "Adin Hill",
+        "team": "VGK",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477960,
+        "player_name": "Adrian Kempe",
+        "team": "LAK",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481033,
+        "player_name": "Akira Schmid",
+        "team": "FLA",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481607,
+        "player_name": "Albert Johansson",
+        "team": "DET",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8485957,
+        "player_name": "Alberts Smits",
+        "team": "NYR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477493,
+        "player_name": "Aleksander Barkov",
+        "team": "FLA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483463,
+        "player_name": "Aleksanteri Kaskimaki",
+        "team": "STL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483731,
+        "player_name": "Alex Bump",
+        "team": "PHI",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479337,
+        "player_name": "Alex DeBrincat",
+        "team": "DET",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480029,
+        "player_name": "Alex Formenton",
+        "team": "EDM",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480113,
+        "player_name": "Alex Iafallo",
+        "team": "WPG",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8473986,
+        "player_name": "Alex Killorn",
+        "team": "ANA",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482155,
+        "player_name": "Alex Laferriere",
+        "team": "LAK",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477968,
+        "player_name": "Alex Nedeljkovic",
+        "team": "SJS",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481618,
+        "player_name": "Alex Newhook",
+        "team": "MTL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8471214,
+        "player_name": "Alex Ovechkin",
+        "team": "WSH",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477949,
+        "player_name": "Alex Tuch",
+        "team": "WSH",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481532,
+        "player_name": "Alex Turcotte",
+        "team": "LAK",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481568,
+        "player_name": "Alex Vlasic",
+        "team": "CHI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482125,
+        "player_name": "Alexander Holtz",
+        "team": "VGK",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477021,
+        "player_name": "Alexander Kerfoot",
+        "team": "NSH",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482100,
+        "player_name": "Alexander Nikishin",
+        "team": "CAR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481014,
+        "player_name": "Alexander Romanov",
+        "team": "NYI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477505,
+        "player_name": "Alexander Wennberg",
+        "team": "SJS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478851,
+        "player_name": "Alexandre Carrier",
+        "team": "MTL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480074,
+        "player_name": "Alexandre Texier",
+        "team": "MTL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480281,
+        "player_name": "Alexey Toropchenko",
+        "team": "STL",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482109,
+        "player_name": "Alexis Lafrenière",
+        "team": "NYR",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481656,
+        "player_name": "Aliaksei Protas",
+        "team": "WSH",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483695,
+        "player_name": "Amadeus Lombardi",
+        "team": "NJD",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475314,
+        "player_name": "Anders Lee",
+        "team": "UTA",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477444,
+        "player_name": "Andre Burakovsky",
+        "team": "OTT",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481732,
+        "player_name": "Andre Lee",
+        "team": "LAK",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477971,
+        "player_name": "Andreas Englund",
+        "team": "DET",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483808,
+        "player_name": "Andrei Kuzmenko",
+        "team": "PIT",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480830,
+        "player_name": "Andrei Svechnikov",
+        "team": "CAR",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476883,
+        "player_name": "Andrei Vasilevskiy",
+        "team": "TBL",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477429,
+        "player_name": "Andrew Copp",
+        "team": "DET",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478233,
+        "player_name": "Andrew Mangiapane",
+        "team": "CHI",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479369,
+        "player_name": "Andrew Peeke",
+        "team": "UTA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478463,
+        "player_name": "Anthony Beauvillier",
+        "team": "WSH",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478519,
+        "player_name": "Anthony Cirelli",
+        "team": "TBL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477407,
+        "player_name": "Anthony Duclair",
+        "team": "NYI",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477511,
+        "player_name": "Anthony Mantha",
+        "team": "NJD",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476932,
+        "player_name": "Anthony Stolarz",
+        "team": "TOR",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476341,
+        "player_name": "Anton Forsberg",
+        "team": "LAK",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8485391,
+        "player_name": "Anton Frondell",
+        "team": "CHI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483679,
+        "player_name": "Anton Johansson",
+        "team": "DET",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482113,
+        "player_name": "Anton Lundell",
+        "team": "FLA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482964,
+        "player_name": "Arber Xhekaj",
+        "team": "MTL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482949,
+        "player_name": "Arsenii Sergeev",
+        "team": "CGY",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481721,
+        "player_name": "Arseny Gritsyuk",
+        "team": "NJD",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483395,
+        "player_name": "Arshdeep Bains",
+        "team": "VAN",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483436,
+        "player_name": "Artem Duda",
+        "team": "UTA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482245,
+        "player_name": "Artem Zub",
+        "team": "OTT",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478550,
+        "player_name": "Artemi Panarin",
+        "team": "LAK",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484938,
+        "player_name": "Arttu Hyry",
+        "team": "DAL",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477476,
+        "player_name": "Artturi Lehkonen",
+        "team": "COL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481668,
+        "player_name": "Arturs Silovs",
+        "team": "PIT",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484783,
+        "player_name": "Artyom Levshunov",
+        "team": "CHI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482821,
+        "player_name": "Arvid Soderblom",
+        "team": "CHI",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479318,
+        "player_name": "Auston Matthews",
+        "team": "TOR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482993,
+        "player_name": "Avery Hayes",
+        "team": "PIT",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484223,
+        "player_name": "Axel Sandin-Pellikka",
+        "team": "DET",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484234,
+        "player_name": "Aydar Suniev",
+        "team": "CGY",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476624,
+        "player_name": "Barclay Goodrow",
+        "team": "SJS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480849,
+        "player_name": "Barrett Hayton",
+        "team": "UTA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479359,
+        "player_name": "Beck Malenstyn",
+        "team": "BUF",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484762,
+        "player_name": "Beckett Sennecke",
+        "team": "ANA",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475279,
+        "player_name": "Ben Chiarot",
+        "team": "DET",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477018,
+        "player_name": "Ben Hutton",
+        "team": "NYI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480259,
+        "player_name": "Ben Jones",
+        "team": "CGY",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8485414,
+        "player_name": "Ben Kindel",
+        "team": "PIT",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483570,
+        "player_name": "Ben Meyers",
+        "team": "SEA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484800,
+        "player_name": "Berkly Catton",
+        "team": "SEA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476399,
+        "player_name": "Blake Coleman",
+        "team": "MIN",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481481,
+        "player_name": "Blake Lizotte",
+        "team": "PIT",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480870,
+        "player_name": "Bo Groulx",
+        "team": "TOR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477500,
+        "player_name": "Bo Horvat",
+        "team": "NYI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481553,
+        "player_name": "Bobby Brink",
+        "team": "MIN",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482259,
+        "player_name": "Bobby McMann",
+        "team": "SEA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478147,
+        "player_name": "Bokondji Imama",
+        "team": "FLA",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476432,
+        "player_name": "Boone Jenner",
+        "team": "WSH",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481524,
+        "player_name": "Bowen Byram",
+        "team": "CHI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483471,
+        "player_name": "Brad Lambert",
+        "team": "WPG",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8473419,
+        "player_name": "Brad Marchand",
+        "team": "FLA",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482073,
+        "player_name": "Braden Schneider",
+        "team": "NYR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484203,
+        "player_name": "Bradly Nadeau",
+        "team": "CAR",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476869,
+        "player_name": "Brady Skjei",
+        "team": "NSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480801,
+        "player_name": "Brady Tkachuk",
+        "team": "FLA",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483890,
+        "player_name": "Braeden Bowman",
+        "team": "VGK",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483548,
+        "player_name": "Brandon Bussi",
+        "team": "CAR",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478443,
+        "player_name": "Brandon Carlo",
+        "team": "STL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479520,
+        "player_name": "Brandon Duhaime",
+        "team": "TOR",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479542,
+        "player_name": "Brandon Hagel",
+        "team": "TBL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477986,
+        "player_name": "Brandon Montour",
+        "team": "SEA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482730,
+        "player_name": "Brandt Clarke",
+        "team": "LAK",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475188,
+        "player_name": "Brayden McNabb",
+        "team": "VGK",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478010,
+        "player_name": "Brayden Point",
+        "team": "TBL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475170,
+        "player_name": "Brayden Schenn",
+        "team": "NYI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484242,
+        "player_name": "Brayden Yager",
+        "team": "WPG",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475848,
+        "player_name": "Brendan Gallagher",
+        "team": "VAN",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475455,
+        "player_name": "Brenden Dillon",
+        "team": "NJD",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482747,
+        "player_name": "Brennan Othmann",
+        "team": "CGY",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8470613,
+        "player_name": "Brent Burns",
+        "team": "COL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479353,
+        "player_name": "Brett Howden",
+        "team": "VGK",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476967,
+        "player_name": "Brett Kulak",
+        "team": "COL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477488,
+        "player_name": "Brett Pesce",
+        "team": "NJD",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475208,
+        "player_name": "Brian Dumoulin",
+        "team": "LAK",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478444,
+        "player_name": "Brock Boeser",
+        "team": "VAN",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475754,
+        "player_name": "Brock Nelson",
+        "team": "COL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475810,
+        "player_name": "Bryan Rust",
+        "team": "PIT",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479985,
+        "player_name": "Cale Fleury",
+        "team": "SEA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480069,
+        "player_name": "Cale Makar",
+        "team": "COL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484221,
+        "player_name": "Calum Ritchie",
+        "team": "NYI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475717,
+        "player_name": "Calvin Pickard",
+        "team": "MIN",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475764,
+        "player_name": "Cam Fowler",
+        "team": "STL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475660,
+        "player_name": "Cam Talbot",
+        "team": "CBJ",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481546,
+        "player_name": "Cam York",
+        "team": "PHI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480075,
+        "player_name": "Cameron Crotty",
+        "team": "OTT",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479336,
+        "player_name": "Carl Grundstrom",
+        "team": "PHI",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477369,
+        "player_name": "Carson Soucy",
+        "team": "CBJ",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479394,
+        "player_name": "Carter Hart",
+        "team": "VGK",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482802,
+        "player_name": "Carter Mazur",
+        "team": "DET",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477409,
+        "player_name": "Carter Verhaeghe",
+        "team": "FLA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484759,
+        "player_name": "Carter Yakemchuk",
+        "team": "OTT",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475231,
+        "player_name": "Casey Cizikas",
+        "team": "NYI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479193,
+        "player_name": "Casey DeSmith",
+        "team": "DAL",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479999,
+        "player_name": "Casey Mittelstadt",
+        "team": "BOS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476905,
+        "player_name": "Chandler Stephenson",
+        "team": "SEA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480426,
+        "player_name": "Charle-Edouard D'Astous",
+        "team": "TBL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484428,
+        "player_name": "Charles Alexis Legault",
+        "team": "CAR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475745,
+        "player_name": "Charlie Coyle",
+        "team": "CBJ",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479292,
+        "player_name": "Charlie Lindgren",
+        "team": "WSH",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479325,
+        "player_name": "Charlie McAvoy",
+        "team": "BOS",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475184,
+        "player_name": "Chris Kreider",
+        "team": "MTL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475690,
+        "player_name": "Chris Tanev",
+        "team": "TOR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477989,
+        "player_name": "Christian Dvorak",
+        "team": "PHI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8473512,
+        "player_name": "Claude Giroux",
+        "team": "OTT",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483532,
+        "player_name": "Clay Stevenson",
+        "team": "WPG",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479343,
+        "player_name": "Clayton Keller",
+        "team": "UTA",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476879,
+        "player_name": "Cody Ceci",
+        "team": "LAK",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479996,
+        "player_name": "Cody Glass",
+        "team": "NJD",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484786,
+        "player_name": "Cole Beaudoin",
+        "team": "NYR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481540,
+        "player_name": "Cole Caufield",
+        "team": "MTL",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484873,
+        "player_name": "Cole Hutson",
+        "team": "WSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483787,
+        "player_name": "Cole Knuble",
+        "team": "PHI",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481043,
+        "player_name": "Cole Koepke",
+        "team": "WPG",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484287,
+        "player_name": "Cole McWard",
+        "team": "TOR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482149,
+        "player_name": "Cole Perfetti",
+        "team": "WPG",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481133,
+        "player_name": "Cole Reinhardt",
+        "team": "FLA",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481655,
+        "player_name": "Cole Schwindt",
+        "team": "FLA",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482705,
+        "player_name": "Cole Sillinger",
+        "team": "CBJ",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482062,
+        "player_name": "Cole Smith",
+        "team": "CHI",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476278,
+        "player_name": "Colin Blackwell",
+        "team": "DAL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484911,
+        "player_name": "Collin Graf",
+        "team": "SJS",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481551,
+        "player_name": "Colten Ellis",
+        "team": "BUF",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482703,
+        "player_name": "Colton Dach",
+        "team": "EDM",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476892,
+        "player_name": "Colton Parayko",
+        "team": "STL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476925,
+        "player_name": "Colton Sissons",
+        "team": "TOR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484144,
+        "player_name": "Connor Bedard",
+        "team": "CHI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477015,
+        "player_name": "Connor Brown",
+        "team": "NJD",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477365,
+        "player_name": "Connor Clifton",
+        "team": "BOS",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480980,
+        "player_name": "Connor Dewar",
+        "team": "PIT",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476945,
+        "player_name": "Connor Hellebuyck",
+        "team": "NJD",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478402,
+        "player_name": "Connor McDavid",
+        "team": "EDM",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481580,
+        "player_name": "Connor McMichael",
+        "team": "STL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476473,
+        "player_name": "Connor Murphy",
+        "team": "EDM",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482074,
+        "player_name": "Connor Zary",
+        "team": "CGY",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478856,
+        "player_name": "Conor Garland",
+        "team": "CBJ",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483447,
+        "player_name": "Conor Geekie",
+        "team": "TBL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479982,
+        "player_name": "Conor Timmins",
+        "team": "BUF",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484900,
+        "player_name": "Cooper Black",
+        "team": "FLA",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8470621,
+        "player_name": "Corey Perry",
+        "team": "LAK",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480876,
+        "player_name": "Curtis Douglas",
+        "team": "SEA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483445,
+        "player_name": "Cutter Gauthier",
+        "team": "ANA",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482094,
+        "player_name": "Daemon Hunt",
+        "team": "MIN,NSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478057,
+        "player_name": "Dakota Joshua",
+        "team": "TOR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477541,
+        "player_name": "Dakota Mermis",
+        "team": "TOR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484164,
+        "player_name": "Dalibor Dvorsky",
+        "team": "STL",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476923,
+        "player_name": "Damon Severson",
+        "team": "CBJ",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478435,
+        "player_name": "Dan Vladar",
+        "team": "PHI",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484388,
+        "player_name": "Daniil But",
+        "team": "UTA",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480193,
+        "player_name": "Daniil Tarasov",
+        "team": "DET",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483525,
+        "player_name": "Danila Yurov",
+        "team": "MIN",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479371,
+        "player_name": "Dante Fabbro",
+        "team": "CBJ",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478046,
+        "player_name": "Danton Heinen",
+        "team": "CBJ",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475311,
+        "player_name": "Darcy Kuemper",
+        "team": "LAK",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477498,
+        "player_name": "Darnell Nurse",
+        "team": "SJS",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478178,
+        "player_name": "Darren Raddysh",
+        "team": "TOR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483460,
+        "player_name": "David Jiricek",
+        "team": "PHI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477956,
+        "player_name": "David Pastrnak",
+        "team": "BOS",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8474102,
+        "player_name": "David Perron",
+        "team": "DAL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484220,
+        "player_name": "David Reinbacher",
+        "team": "MTL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483766,
+        "player_name": "David Spacek",
+        "team": "MIN",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482110,
+        "player_name": "Dawson Mercer",
+        "team": "NJD,WPG",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483398,
+        "player_name": "Declan Carlile",
+        "team": "PIT",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480990,
+        "player_name": "Declan Chisholm",
+        "team": "NJD",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478502,
+        "player_name": "Dennis Gilbert",
+        "team": "BUF",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483710,
+        "player_name": "Dennis Hildeby",
+        "team": "TBL",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483485,
+        "player_name": "Denton Mateychuk",
+        "team": "CBJ",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484142,
+        "player_name": "Denver Barkey",
+        "team": "PHI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482445,
+        "player_name": "Devin Cooley",
+        "team": "CGY",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482221,
+        "player_name": "Devon Levi",
+        "team": "EDM",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478038,
+        "player_name": "Devon Toews",
+        "team": "COL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8485554,
+        "player_name": "Dillon Boucher",
+        "team": "CHI",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479346,
+        "player_name": "Dillon Dube",
+        "team": "STL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484386,
+        "player_name": "Dmitri Simashev",
+        "team": "UTA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481716,
+        "player_name": "Dmitri Voronkov",
+        "team": "CBJ",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475179,
+        "player_name": "Dmitry Kulikov",
+        "team": "FLA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475200,
+        "player_name": "Dmitry Orlov",
+        "team": "SJS",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483752,
+        "player_name": "Dominic James",
+        "team": "TBL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476952,
+        "player_name": "Dominic Toninato",
+        "team": "CHI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476462,
+        "player_name": "Dougie Hamilton",
+        "team": "NJD",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480208,
+        "player_name": "Drake Batherson",
+        "team": "OTT",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8474563,
+        "player_name": "Drew Doughty",
+        "team": "LAK",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481563,
+        "player_name": "Drew Helleson",
+        "team": "ANA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482055,
+        "player_name": "Drew O'Connor",
+        "team": "VAN",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481692,
+        "player_name": "Dustin Wolf",
+        "team": "CGY",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479639,
+        "player_name": "Dylan Coghlan",
+        "team": "VGK",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481528,
+        "player_name": "Dylan Cozens",
+        "team": "OTT",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476331,
+        "player_name": "Dylan DeMelo",
+        "team": "WPG",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482193,
+        "player_name": "Dylan Garand",
+        "team": "NYR",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482699,
+        "player_name": "Dylan Guenther",
+        "team": "UTA",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482077,
+        "player_name": "Dylan Holloway",
+        "team": "STL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8486130,
+        "player_name": "Dylan Hryckowian",
+        "team": "DAL",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477946,
+        "player_name": "Dylan Larkin",
+        "team": "DET",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475795,
+        "player_name": "Dylan McIlrath",
+        "team": "WSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482121,
+        "player_name": "Dylan Peterson",
+        "team": "STL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480049,
+        "player_name": "Dylan Samberg",
+        "team": "WPG",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478440,
+        "player_name": "Dylan Strome",
+        "team": "WSH",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484158,
+        "player_name": "Easton Cowan",
+        "team": "TOR",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480009,
+        "player_name": "Eeli Tolvanen",
+        "team": "NYR",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480185,
+        "player_name": "Eetu Luostarinen",
+        "team": "FLA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482475,
+        "player_name": "Egor Chinakhov",
+        "team": "PIT",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477496,
+        "player_name": "Elias Lindholm",
+        "team": "BOS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480012,
+        "player_name": "Elias Pettersson",
+        "team": "VAN",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483678,
+        "player_name": "Elias Pettersson",
+        "team": "VAN",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483510,
+        "player_name": "Elias Salomonsson",
+        "team": "WPG",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481725,
+        "player_name": "Elmer Soderblom",
+        "team": "PIT",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482126,
+        "player_name": "Emil Andrae",
+        "team": "CBJ",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482476,
+        "player_name": "Emil Heineman",
+        "team": "NYI",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482929,
+        "player_name": "Emil Lilleberg",
+        "team": "TBL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484471,
+        "player_name": "Emmitt Finnie",
+        "team": "DET",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484421,
+        "player_name": "Eric Pohlkamp",
+        "team": "SJS",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480762,
+        "player_name": "Eric Robinson",
+        "team": "CAR",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478416,
+        "player_name": "Erik Cernak",
+        "team": "TBL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475790,
+        "player_name": "Erik Gudbranson",
+        "team": "CBJ",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476979,
+        "player_name": "Erik Gustafsson",
+        "team": "LAK",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475287,
+        "player_name": "Erik Haula",
+        "team": "LAK",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8474578,
+        "player_name": "Erik Karlsson",
+        "team": "PIT",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476902,
+        "player_name": "Esa Lindell",
+        "team": "DAL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482807,
+        "player_name": "Ethan Del Mastro",
+        "team": "CHI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483573,
+        "player_name": "Ethen Frank",
+        "team": "WSH",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480803,
+        "player_name": "Evan Bouchard",
+        "team": "EDM",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478542,
+        "player_name": "Evan Rodrigues",
+        "team": "NJD",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8471215,
+        "player_name": "Evgeni Malkin",
+        "team": "PIT",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480188,
+        "player_name": "Fabian Zetterlund",
+        "team": "OTT",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482768,
+        "player_name": "Fedor Svechkov",
+        "team": "COL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484392,
+        "player_name": "Felix Unger Sörum",
+        "team": "CAR",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483428,
+        "player_name": "Filip Bystedt",
+        "team": "SJS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480078,
+        "player_name": "Filip Chytil",
+        "team": "VAN",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476887,
+        "player_name": "Filip Forsberg",
+        "team": "NSH",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480842,
+        "player_name": "Filip Hallander",
+        "team": "PIT,EDM",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479425,
+        "player_name": "Filip Hronek",
+        "team": "VAN",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484403,
+        "player_name": "Florian Xhekaj",
+        "team": "MTL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483493,
+        "player_name": "Frank Nazar",
+        "team": "CHI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478366,
+        "player_name": "Frank Vatrano",
+        "team": "ANA",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483489,
+        "player_name": "Fraser Minten",
+        "team": "BOS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477919,
+        "player_name": "Freddy Gaudreau",
+        "team": "SEA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483017,
+        "player_name": "Frederic Brunet",
+        "team": "BOS",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484210,
+        "player_name": "Gabe Perreault",
+        "team": "NYR",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476455,
+        "player_name": "Gabriel Landeskog",
+        "team": "COL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480014,
+        "player_name": "Gabriel Vilardi",
+        "team": "WPG",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482201,
+        "player_name": "Gage Goncalves",
+        "team": "TBL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477903,
+        "player_name": "Garnet Hathaway",
+        "team": "FLA",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475253,
+        "player_name": "Garrett Wilson",
+        "team": "PHI",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484149,
+        "player_name": "Gavin Brindley",
+        "team": "COL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8486067,
+        "player_name": "Gavin McKenna",
+        "team": "TOR",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478465,
+        "player_name": "Guillaume Brisebois",
+        "team": "VAN",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478055,
+        "player_name": "Gustav Forsling",
+        "team": "FLA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476854,
+        "player_name": "Hampus Lindholm",
+        "team": "BOS",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478173,
+        "player_name": "Hayden Hodgson",
+        "team": "OTT",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477938,
+        "player_name": "Haydn Fleury",
+        "team": "WPG",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482169,
+        "player_name": "Helge Grans",
+        "team": "PHI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482148,
+        "player_name": "Hendrix Lapierre",
+        "team": "PIT",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484409,
+        "player_name": "Hoyt Stanley",
+        "team": "OTT",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483760,
+        "player_name": "Hunter McDonald",
+        "team": "PHI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8474013,
+        "player_name": "Ian Cole",
+        "team": "CHI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484994,
+        "player_name": "Igor Chernyshov",
+        "team": "SJS",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478048,
+        "player_name": "Igor Shesterkin",
+        "team": "NYR",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480950,
+        "player_name": "Ilya Lyubushkin",
+        "team": "NSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481624,
+        "player_name": "Ilya Mikheyev",
+        "team": "TBL",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484999,
+        "player_name": "Ilya Protas",
+        "team": "WSH",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482470,
+        "player_name": "Ilya Solovyov",
+        "team": "PIT",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478009,
+        "player_name": "Ilya Sorokin",
+        "team": "NYI",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483455,
+        "player_name": "Isaac Howard",
+        "team": "EDM",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482765,
+        "player_name": "Isak Rosén",
+        "team": "WPG",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477964,
+        "player_name": "Ivan Barbashev",
+        "team": "VGK",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484984,
+        "player_name": "Ivan Demidov",
+        "team": "MTL",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483491,
+        "player_name": "Ivan Miroshnichenko",
+        "team": "WSH",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478500,
+        "player_name": "Ivan Provorov",
+        "team": "CBJ",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8486103,
+        "player_name": "Ivar Stenberg",
+        "team": "SJS",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482655,
+        "player_name": "J.J. Moser",
+        "team": "TBL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477456,
+        "player_name": "J.T. Compher",
+        "team": "DET",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476468,
+        "player_name": "J.T. Miller",
+        "team": "NYR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476958,
+        "player_name": "Jaccob Slavin",
+        "team": "CAR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482072,
+        "player_name": "Jack Ahcan",
+        "team": "NSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480835,
+        "player_name": "Jack Drury",
+        "team": "NSH",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478403,
+        "player_name": "Jack Eichel",
+        "team": "VGK",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481559,
+        "player_name": "Jack Hughes",
+        "team": "NJD",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480855,
+        "player_name": "Jack McBain",
+        "team": "UTA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482097,
+        "player_name": "Jack Quinn",
+        "team": "BUF",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478458,
+        "player_name": "Jack Roslovic",
+        "team": "TOR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481030,
+        "player_name": "Jack St. Ivany",
+        "team": "WPG,WSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480021,
+        "player_name": "Jack Studnicka",
+        "team": "PHI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8485469,
+        "player_name": "Jack Williams",
+        "team": "CBJ",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482809,
+        "player_name": "Jackson Blake",
+        "team": "CAR",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481605,
+        "player_name": "Jackson LaCombe",
+        "team": "ANA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484170,
+        "player_name": "Jacob Fowler",
+        "team": "MTL",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481848,
+        "player_name": "Jacob Gaucher",
+        "team": "PHI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8474593,
+        "player_name": "Jacob Markstrom",
+        "team": "FLA",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482874,
+        "player_name": "Jacob Melanson",
+        "team": "SEA",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478136,
+        "player_name": "Jacob Middleton",
+        "team": "CGY",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484901,
+        "player_name": "Jacob Quillan",
+        "team": "VAN",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476885,
+        "player_name": "Jacob Trouba",
+        "team": "SJS",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475768,
+        "player_name": "Jaden Schwartz",
+        "team": "COL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8474596,
+        "player_name": "Jake Allen",
+        "team": "NJD",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481161,
+        "player_name": "Jake Christiansen",
+        "team": "CBJ",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478498,
+        "player_name": "Jake DeBrusk",
+        "team": "VAN",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478133,
+        "player_name": "Jake Evans",
+        "team": "MTL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477404,
+        "player_name": "Jake Guentzel",
+        "team": "TBL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476931,
+        "player_name": "Jake McCabe",
+        "team": "TOR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482089,
+        "player_name": "Jake Neighbours",
+        "team": "STL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479979,
+        "player_name": "Jake Oettinger",
+        "team": "DAL",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482105,
+        "player_name": "Jake Sanderson",
+        "team": "OTT",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478013,
+        "player_name": "Jake Walman",
+        "team": "EDM",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479345,
+        "player_name": "Jakob Chychrun",
+        "team": "WSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482487,
+        "player_name": "Jakub Dobes",
+        "team": "MTL",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478970,
+        "player_name": "Jalen Chatfield",
+        "team": "CAR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8485395,
+        "player_name": "James Hagens",
+        "team": "BOS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8473503,
+        "player_name": "James Reimer",
+        "team": "NYR",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8473994,
+        "player_name": "Jamie Benn",
+        "team": "DAL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482142,
+        "player_name": "Jamie Drysdale",
+        "team": "PHI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476467,
+        "player_name": "Jamie Oleksiak",
+        "team": "VAN",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483497,
+        "player_name": "Jani Nyman",
+        "team": "SEA",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478424,
+        "player_name": "Jansen Harkins",
+        "team": "TBL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477955,
+        "player_name": "Jared McCann",
+        "team": "SEA",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8474716,
+        "player_name": "Jared Spurgeon",
+        "team": "MIN",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483756,
+        "player_name": "Jared Wright",
+        "team": "LAK",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482877,
+        "player_name": "Jaroslav Chmelar",
+        "team": "NYR",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477450,
+        "player_name": "Jason Dickinson",
+        "team": "EDM",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480027,
+        "player_name": "Jason Robertson",
+        "team": "DAL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475722,
+        "player_name": "Jason Zucker",
+        "team": "BUF",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481593,
+        "player_name": "Jayden Struble",
+        "team": "MTL,NSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476419,
+        "player_name": "Jean-Gabriel Pageau",
+        "team": "NYI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482408,
+        "player_name": "Jeff Malott",
+        "team": "ANA",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479705,
+        "player_name": "Jeff Viel",
+        "team": "TBL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478468,
+        "player_name": "Jeremy Lauzon",
+        "team": "VGK",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480280,
+        "player_name": "Jeremy Swayman",
+        "team": "BOS",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480003,
+        "player_name": "Jesper Boqvist",
+        "team": "NJD",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479407,
+        "player_name": "Jesper Bratt",
+        "team": "NJD",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482661,
+        "player_name": "Jesper Wallstedt",
+        "team": "MIN",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480829,
+        "player_name": "Jesperi Kotkaniemi",
+        "team": "CAR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482982,
+        "player_name": "Jet Greaves",
+        "team": "CBJ",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483516,
+        "player_name": "Jimmy Snuggerud",
+        "team": "STL",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483468,
+        "player_name": "Jiri Kulich",
+        "team": "BUF",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482175,
+        "player_name": "JJ Peterka",
+        "team": "BOS",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476469,
+        "player_name": "Joel Armia",
+        "team": "LAK",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476441,
+        "player_name": "Joel Edmundson",
+        "team": "LAK",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478493,
+        "player_name": "Joel Eriksson Ek",
+        "team": "MIN",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480797,
+        "player_name": "Joel Farabee",
+        "team": "CGY",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477810,
+        "player_name": "Joel Hanley",
+        "team": "CGY",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480981,
+        "player_name": "Joel Hofer",
+        "team": "STL",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481641,
+        "player_name": "Joel Kiviranta",
+        "team": "DAL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478916,
+        "player_name": "Joey Daccord",
+        "team": "SEA",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8474590,
+        "player_name": "John Carlson",
+        "team": "TBL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476434,
+        "player_name": "John Gibson",
+        "team": "DET",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481077,
+        "player_name": "John Leonard",
+        "team": "DET",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478507,
+        "player_name": "John Marino",
+        "team": "UTA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475166,
+        "player_name": "John Tavares",
+        "team": "TOR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480192,
+        "player_name": "Johnathan Kovacevic",
+        "team": "NJD",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476463,
+        "player_name": "Jonas Brodin",
+        "team": "MIN",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477992,
+        "player_name": "Jonas Johansson",
+        "team": "OTT",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480007,
+        "player_name": "Jonas Rondbjerg",
+        "team": "VGK",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478399,
+        "player_name": "Jonas Siegenthaler",
+        "team": "NJD",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481013,
+        "player_name": "Jonatan Berggren",
+        "team": "STL",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481219,
+        "player_name": "Jonathan Aspirot",
+        "team": "BOS",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484154,
+        "player_name": "Jonathan Castagna",
+        "team": "CGY",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483476,
+        "player_name": "Jonathan Lekkerimaki",
+        "team": "VAN",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476539,
+        "player_name": "Jonathan Marchessault",
+        "team": "NSH",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477380,
+        "player_name": "Jonny Brodzinski",
+        "team": "WSH",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476412,
+        "player_name": "Jordan Binnington",
+        "team": "STL",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8474586,
+        "player_name": "Jordan Eberle",
+        "team": "SEA",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478413,
+        "player_name": "Jordan Greenway",
+        "team": "CHI",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479385,
+        "player_name": "Jordan Kyrou",
+        "team": "WSH",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476921,
+        "player_name": "Jordan Martinook",
+        "team": "CAR",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481606,
+        "player_name": "Jordan Spence",
+        "team": "OTT",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8473533,
+        "player_name": "Jordan Staal",
+        "team": "CAR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483435,
+        "player_name": "Jorian Donovan",
+        "team": "OTT",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480813,
+        "player_name": "Joseph Veleno",
+        "team": "NYR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479361,
+        "player_name": "Joseph Woll",
+        "team": "PHI",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476981,
+        "player_name": "Josh Anderson",
+        "team": "MTL",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482659,
+        "player_name": "Josh Doan",
+        "team": "BUF",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479372,
+        "player_name": "Josh Mahura",
+        "team": "SEA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476312,
+        "player_name": "Josh Manson",
+        "team": "COL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477504,
+        "player_name": "Josh Morrissey",
+        "team": "WPG",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480064,
+        "player_name": "Josh Norris",
+        "team": "BUF",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484509,
+        "player_name": "Josh Samanski",
+        "team": "EDM",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481538,
+        "player_name": "Judd Caulfield",
+        "team": "ANA",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483515,
+        "player_name": "Juraj Slafkovský",
+        "team": "MTL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482111,
+        "player_name": "Justin Barron",
+        "team": "STL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479638,
+        "player_name": "Justin Brazeau",
+        "team": "PIT",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479941,
+        "player_name": "Justin Danforth",
+        "team": "BUF",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475413,
+        "player_name": "Justin Dowling",
+        "team": "NYR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475753,
+        "player_name": "Justin Faulk",
+        "team": "DET",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475718,
+        "player_name": "Justin Holl",
+        "team": "WSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484829,
+        "player_name": "Justin Hryckowian",
+        "team": "DAL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482088,
+        "player_name": "Justin Sourdif",
+        "team": "WSH",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481020,
+        "player_name": "Justus Annunen",
+        "team": "NSH",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477424,
+        "player_name": "Juuse Saros",
+        "team": "NSH",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479976,
+        "player_name": "Juuso Valimaki",
+        "team": "CAR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480817,
+        "player_name": "K'Andre Miller",
+        "team": "CAR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481554,
+        "player_name": "Kaapo Kakko",
+        "team": "SEA",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481527,
+        "player_name": "Kaedan Korczak",
+        "team": "PIT",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482087,
+        "player_name": "Kaiden Guhle",
+        "team": "MTL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479977,
+        "player_name": "Kailer Yamamoto",
+        "team": "UTA",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478872,
+        "player_name": "Karel Vejmelka",
+        "team": "UTA",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477953,
+        "player_name": "Kasperi Kapanen",
+        "team": "EDM",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478434,
+        "player_name": "Keegan Kolesar",
+        "team": "DET",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483675,
+        "player_name": "Kenny Connors",
+        "team": "LAK",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482660,
+        "player_name": "Kent Johnson",
+        "team": "CBJ",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480860,
+        "player_name": "Kevin Bahl",
+        "team": "CGY",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483466,
+        "player_name": "Kevin Korchinski",
+        "team": "CHI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480947,
+        "player_name": "Kevin Lankinen",
+        "team": "VAN",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478831,
+        "player_name": "Kevin Stenlund",
+        "team": "UTA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480748,
+        "player_name": "Kiefer Sherwood",
+        "team": "SJS",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481523,
+        "player_name": "Kirby Dach",
+        "team": "MTL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478864,
+        "player_name": "Kirill Kaprizov",
+        "team": "MIN",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480893,
+        "player_name": "Kirill Marchenko",
+        "team": "TOR",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484797,
+        "player_name": "Konsta Helenius",
+        "team": "BUF",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8471724,
+        "player_name": "Kris Letang",
+        "team": "PIT",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478476,
+        "player_name": "Kyle Capobianco",
+        "team": "DAL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478398,
+        "player_name": "Kyle Connor",
+        "team": "WPG",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481237,
+        "player_name": "Kyle MacLean",
+        "team": "NYI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475151,
+        "player_name": "Kyle Palmieri",
+        "team": "NYI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483457,
+        "player_name": "Lane Hutson",
+        "team": "MTL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8474189,
+        "player_name": "Lars Eller",
+        "team": "FLA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476316,
+        "player_name": "Laurent Brossoit",
+        "team": "ANA",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478474,
+        "player_name": "Lawson Crouse",
+        "team": "UTA",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482447,
+        "player_name": "Leevi Merilainen",
+        "team": "VAN",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484153,
+        "player_name": "Leo Carlsson",
+        "team": "ANA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477934,
+        "player_name": "Leon Draisaitl",
+        "team": "EDM",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477070,
+        "player_name": "Liam O'Brien",
+        "team": "UTA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483499,
+        "player_name": "Liam Ohgren",
+        "team": "VAN",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483425,
+        "player_name": "Lian Bichsel",
+        "team": "DAL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481024,
+        "player_name": "Linus Karlsson",
+        "team": "VAN",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476999,
+        "player_name": "Linus Ullmark",
+        "team": "OTT",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483431,
+        "player_name": "Logan Cooley",
+        "team": "UTA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481186,
+        "player_name": "Logan O'Connor",
+        "team": "COL",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482702,
+        "player_name": "Logan Stankoven",
+        "team": "CAR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479378,
+        "player_name": "Logan Stanley",
+        "team": "NYI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480313,
+        "player_name": "Logan Thompson",
+        "team": "WSH",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481806,
+        "player_name": "Louis Crevier",
+        "team": "BUF",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484152,
+        "player_name": "Luca Cagnoni",
+        "team": "SJS",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483432,
+        "player_name": "Luca Del Bel Belluz",
+        "team": "CBJ",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482078,
+        "player_name": "Lucas Raymond",
+        "team": "DET",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480843,
+        "player_name": "Lukas Dostal",
+        "team": "ANA",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482146,
+        "player_name": "Luke Evangelista",
+        "team": "NJD",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476822,
+        "player_name": "Luke Glendening",
+        "team": "NYR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482684,
+        "player_name": "Luke Hughes",
+        "team": "NJD",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8474568,
+        "player_name": "Luke Schenn",
+        "team": "VAN",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478406,
+        "player_name": "Mackenzie Blackwood",
+        "team": "COL",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477346,
+        "player_name": "MacKenzie Weegar",
+        "team": "UTA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482713,
+        "player_name": "Mackie Samoskevich",
+        "team": "SEA",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484801,
+        "player_name": "Macklin Celebrini",
+        "team": "SJS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484958,
+        "player_name": "Maksim Tsyplakov",
+        "team": "CGY",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482177,
+        "player_name": "Marat Khusnutdinov",
+        "team": "BOS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483553,
+        "player_name": "Marc Gatcomb",
+        "team": "VGK",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483464,
+        "player_name": "Marco Kasper",
+        "team": "DET",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482079,
+        "player_name": "Marco Rossi",
+        "team": "VAN",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475220,
+        "player_name": "Marcus Foligno",
+        "team": "MIN",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477969,
+        "player_name": "Marcus Pettersson",
+        "team": "NYR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479983,
+        "player_name": "Mario Ferraro",
+        "team": "WPG",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476873,
+        "player_name": "Mark Jankowski",
+        "team": "CAR",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480355,
+        "player_name": "Mark Kastelic",
+        "team": "BOS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476460,
+        "player_name": "Mark Scheifele",
+        "team": "WPG",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475913,
+        "player_name": "Mark Stone",
+        "team": "VGK",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483546,
+        "player_name": "Marshall Rifai",
+        "team": "TOR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482160,
+        "player_name": "Martin Chromiak",
+        "team": "LAK",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480796,
+        "player_name": "Martin Fehervary",
+        "team": "WSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480039,
+        "player_name": "Martin Necas",
+        "team": "COL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481028,
+        "player_name": "Martin Pospisil",
+        "team": "CGY",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478891,
+        "player_name": "Mason Appleton",
+        "team": "DET",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482511,
+        "player_name": "Mason Lohrei",
+        "team": "BOS",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478975,
+        "player_name": "Mason Marchment",
+        "team": "SJS",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482745,
+        "player_name": "Mason McTavish",
+        "team": "STL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478472,
+        "player_name": "Mathieu Joseph",
+        "team": "EDM",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479671,
+        "player_name": "Mathieu Olivier",
+        "team": "CBJ",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481711,
+        "player_name": "Matias Maccelli",
+        "team": "NYI",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475692,
+        "player_name": "Mats Zuccarello",
+        "team": "LAK",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481557,
+        "player_name": "Matt Boldy",
+        "team": "MIN",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482679,
+        "player_name": "Matt Coronato",
+        "team": "CGY",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476891,
+        "player_name": "Matt Grzelcyk",
+        "team": "BUF",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482641,
+        "player_name": "Matt Kiersted",
+        "team": "MIN",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483575,
+        "player_name": "Matt Murray",
+        "team": "NSH",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482460,
+        "player_name": "Matt Rempe",
+        "team": "NYR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478911,
+        "player_name": "Matt Roy",
+        "team": "WSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477035,
+        "player_name": "Matt Tomkins",
+        "team": "EDM",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482516,
+        "player_name": "Matthew Kessel",
+        "team": "NYI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482720,
+        "player_name": "Matthew Knies",
+        "team": "CBJ",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483505,
+        "player_name": "Matthew Poitras",
+        "team": "BOS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481525,
+        "player_name": "Matthew Robertson",
+        "team": "NYR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8485366,
+        "player_name": "Matthew Schaefer",
+        "team": "NYI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483514,
+        "player_name": "Matthew Seminoff",
+        "team": "DAL",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479314,
+        "player_name": "Matthew Tkachuk",
+        "team": "FLA",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484241,
+        "player_name": "Matthew Wood",
+        "team": "NSH,SEA",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475218,
+        "player_name": "Mattias Ekholm",
+        "team": "EDM",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480807,
+        "player_name": "Mattias Samuelsson",
+        "team": "BUF",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482665,
+        "player_name": "Matty Beniers",
+        "team": "SEA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484860,
+        "player_name": "Matvei Gridin",
+        "team": "CGY",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484387,
+        "player_name": "Matvei Michkov",
+        "team": "PHI",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482145,
+        "player_name": "Mavrik Bourque",
+        "team": "NSH",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481719,
+        "player_name": "Max Crozier",
+        "team": "TBL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479368,
+        "player_name": "Max Jones",
+        "team": "EDM",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484136,
+        "player_name": "Max Sasson",
+        "team": "VAN",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8485702,
+        "player_name": "Maxim Shabanov",
+        "team": "MIN",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478020,
+        "player_name": "Michael Amadio",
+        "team": "OTT",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484794,
+        "player_name": "Michael Brandsegg-Nygård",
+        "team": "DET",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478047,
+        "player_name": "Michael Bunting",
+        "team": "PHI",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479619,
+        "player_name": "Michael Carcone",
+        "team": "UTA",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480022,
+        "player_name": "Michael DiPietro",
+        "team": "BOS",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479591,
+        "player_name": "Michael Eyssimont",
+        "team": "BOS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480891,
+        "player_name": "Michael Kesselring",
+        "team": "SJS",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477446,
+        "player_name": "Michael McCarron",
+        "team": "MIN",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8485402,
+        "player_name": "Michael Misa",
+        "team": "SJS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479992,
+        "player_name": "Michael Rasmussen",
+        "team": "DET",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8485545,
+        "player_name": "Michal Postava",
+        "team": "DET",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476459,
+        "player_name": "Mika Zibanejad",
+        "team": "NYR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8474150,
+        "player_name": "Mikael Backlund",
+        "team": "CGY",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475798,
+        "player_name": "Mikael Granlund",
+        "team": "ANA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476875,
+        "player_name": "Mike Matheson",
+        "team": "MTL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476422,
+        "player_name": "Mike Reilly",
+        "team": "CAR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479998,
+        "player_name": "Mikey Anderson",
+        "team": "LAK",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479410,
+        "player_name": "Mikhail Sergachev",
+        "team": "UTA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478420,
+        "player_name": "Mikko Rantanen",
+        "team": "DAL",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480036,
+        "player_name": "Miro Heiskanen",
+        "team": "DAL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478483,
+        "player_name": "Mitch Marner",
+        "team": "VGK",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482070,
+        "player_name": "Mitchell Chaffee",
+        "team": "NYI",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480289,
+        "player_name": "Morgan Barron",
+        "team": "WPG",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480028,
+        "player_name": "Morgan Frost",
+        "team": "CGY",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479987,
+        "player_name": "Morgan Geekie",
+        "team": "BOS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476853,
+        "player_name": "Morgan Rielly",
+        "team": "TOR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481542,
+        "player_name": "Moritz Seider",
+        "team": "DET",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484160,
+        "player_name": "Nate Danielson",
+        "team": "DET",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477220,
+        "player_name": "Nate Schmidt",
+        "team": "UTA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477492,
+        "player_name": "Nathan MacKinnon",
+        "team": "COL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475172,
+        "player_name": "Nazem Kadri",
+        "team": "COL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480145,
+        "player_name": "Neal Pionk",
+        "team": "WPG",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475343,
+        "player_name": "Nic Dowd",
+        "team": "VGK",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483565,
+        "player_name": "Nick Blankenburg",
+        "team": "TOR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476393,
+        "player_name": "Nick Cousins",
+        "team": "OTT",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480084,
+        "player_name": "Nick DeSimone",
+        "team": "UTA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8473422,
+        "player_name": "Nick Foligno",
+        "team": "MIN",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475324,
+        "player_name": "Nick Jensen",
+        "team": "ANA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484185,
+        "player_name": "Nick Lardis",
+        "team": "CHI",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477426,
+        "player_name": "Nick Paul",
+        "team": "TOR",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480246,
+        "player_name": "Nick Perbix",
+        "team": "NSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481582,
+        "player_name": "Nick Robertson",
+        "team": "PIT",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477951,
+        "player_name": "Nick Schmaltz",
+        "team": "UTA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476372,
+        "player_name": "Nick Seeler",
+        "team": "PHI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480018,
+        "player_name": "Nick Suzuki",
+        "team": "MTL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482076,
+        "player_name": "Nico Daws",
+        "team": "NJD,WPG",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480002,
+        "player_name": "Nico Hischier",
+        "team": "NJD",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484201,
+        "player_name": "Nico Myatovic",
+        "team": "ANA",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481477,
+        "player_name": "Nico Sturm",
+        "team": "MIN",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475235,
+        "player_name": "Nicolas Deslauriers",
+        "team": "CAR",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479980,
+        "player_name": "Nicolas Hague",
+        "team": "NSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478462,
+        "player_name": "Nicolas Roy",
+        "team": "COL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8486052,
+        "player_name": "Nikita Klepov",
+        "team": "ANA",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476453,
+        "player_name": "Nikita Kucherov",
+        "team": "TBL",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481754,
+        "player_name": "Nikita Nesterenko",
+        "team": "ANA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477507,
+        "player_name": "Nikita Zadorov",
+        "team": "BOS",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478859,
+        "player_name": "Niko Mikkola",
+        "team": "FLA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477940,
+        "player_name": "Nikolaj Ehlers",
+        "team": "CAR",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484321,
+        "player_name": "Nikolas Matinpalo",
+        "team": "OTT",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481535,
+        "player_name": "Nils Hoglander",
+        "team": "NSH",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480878,
+        "player_name": "Nils Lundkvist",
+        "team": "DAL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475799,
+        "player_name": "Nino Niederreiter",
+        "team": "WPG",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480220,
+        "player_name": "Noah Cates",
+        "team": "PHI",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480865,
+        "player_name": "Noah Dobson",
+        "team": "MTL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478396,
+        "player_name": "Noah Hanifin",
+        "team": "VGK",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478454,
+        "player_name": "Noah Juulsen",
+        "team": "COL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483690,
+        "player_name": "Noah Laba",
+        "team": "NYR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483500,
+        "player_name": "Noah Ostlund",
+        "team": "BUF",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483521,
+        "player_name": "Noah Warren",
+        "team": "ANA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478569,
+        "player_name": "Noel Acciari",
+        "team": "PHI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482700,
+        "player_name": "Nolan Allan",
+        "team": "SJS",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482803,
+        "player_name": "Olen Zellweger",
+        "team": "BUF",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477416,
+        "player_name": "Oliver Bjorkstrand",
+        "team": "NYR",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484148,
+        "player_name": "Oliver Bonk",
+        "team": "PHI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475171,
+        "player_name": "Oliver Ekman-Larsson",
+        "team": "TOR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482775,
+        "player_name": "Oliver Kapanen",
+        "team": "MTL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484197,
+        "player_name": "Oliver Moore",
+        "team": "CHI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476874,
+        "player_name": "Olli Maatta",
+        "team": "MIN",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476292,
+        "player_name": "Ondrej Palat",
+        "team": "NYI",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480840,
+        "player_name": "Oskar Bäck",
+        "team": "DAL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484230,
+        "player_name": "Otto Stenberg",
+        "team": "STL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483424,
+        "player_name": "Owen Beck",
+        "team": "MTL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8486161,
+        "player_name": "Owen Michaels",
+        "team": "EDM",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482671,
+        "player_name": "Owen Power",
+        "team": "BUF",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480015,
+        "player_name": "Owen Tippett",
+        "team": "PHI",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480448,
+        "player_name": "Parker Kelly",
+        "team": "COL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478450,
+        "player_name": "Parker Wotherspoon",
+        "team": "VGK",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8474141,
+        "player_name": "Patrick Kane",
+        "team": "CHI",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481032,
+        "player_name": "Paul Cotter",
+        "team": "VAN",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477402,
+        "player_name": "Pavel Buchnevich",
+        "team": "STL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481604,
+        "player_name": "Pavel Dorofeyev",
+        "team": "NYR",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483490,
+        "player_name": "Pavel Mintyukov",
+        "team": "ANA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478401,
+        "player_name": "Pavel Zacha",
+        "team": "BOS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481522,
+        "player_name": "Peyton Krebs",
+        "team": "BUF",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481598,
+        "player_name": "Philip Broberg",
+        "team": "STL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481577,
+        "player_name": "Philip Tomasino",
+        "team": "OTT",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475831,
+        "player_name": "Philipp Grubauer",
+        "team": "SEA",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476479,
+        "player_name": "Phillip Danault",
+        "team": "MTL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479400,
+        "player_name": "Pierre-Luc Dubois",
+        "team": "WSH",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480459,
+        "player_name": "Pius Suter",
+        "team": "STL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480995,
+        "player_name": "Pontus Holmberg",
+        "team": "TBL",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8485406,
+        "player_name": "Porter Martone",
+        "team": "PHI",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481611,
+        "player_name": "Pyotr Kochetkov",
+        "team": "CAR",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480800,
+        "player_name": "Quinn Hughes",
+        "team": "MIN",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482124,
+        "player_name": "Quinton Byfield",
+        "team": "LAK",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476889,
+        "player_name": "Radek Faksa",
+        "team": "DAL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475462,
+        "player_name": "Radko Gudas",
+        "team": "FLA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481534,
+        "player_name": "Raphael Lavoie",
+        "team": "VGK",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478397,
+        "player_name": "Rasmus Andersson",
+        "team": "VGK",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480839,
+        "player_name": "Rasmus Dahlin",
+        "team": "BUF",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477499,
+        "player_name": "Rasmus Ristolainen",
+        "team": "PHI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483513,
+        "player_name": "Reid Schaefer",
+        "team": "NSH",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476483,
+        "player_name": "Rickard Rakell",
+        "team": "PIT",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482092,
+        "player_name": "Ridly Greig",
+        "team": "OTT",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483478,
+        "player_name": "Rieger Lorenz",
+        "team": "MIN",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480023,
+        "player_name": "Robert Thomas",
+        "team": "STL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8485400,
+        "player_name": "Roger McQueen",
+        "team": "ANA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8474600,
+        "player_name": "Roman Josi",
+        "team": "NSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484390,
+        "player_name": "Roman Kantserov",
+        "team": "CHI",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478449,
+        "player_name": "Roope Hintz",
+        "team": "DAL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479525,
+        "player_name": "Ross Colton",
+        "team": "NSH",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477527,
+        "player_name": "Ross Johnston",
+        "team": "STL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483487,
+        "player_name": "Rutger McGroarty",
+        "team": "PIT",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477987,
+        "player_name": "Ryan Donato",
+        "team": "CHI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483450,
+        "player_name": "Ryan Greene",
+        "team": "CHI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477451,
+        "player_name": "Ryan Hartman",
+        "team": "MIN",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484186,
+        "player_name": "Ryan Leonard",
+        "team": "WSH",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479324,
+        "player_name": "Ryan Lindgren",
+        "team": "SEA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479066,
+        "player_name": "Ryan Lomberg",
+        "team": "CBJ",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8474151,
+        "player_name": "Ryan McDonagh",
+        "team": "TBL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480802,
+        "player_name": "Ryan McLeod",
+        "team": "BUF",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476454,
+        "player_name": "Ryan Nugent-Hopkins",
+        "team": "EDM",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475158,
+        "player_name": "Ryan O'Reilly",
+        "team": "NSH",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480068,
+        "player_name": "Ryan Poehling",
+        "team": "ANA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477506,
+        "player_name": "Ryan Pulock",
+        "team": "NYI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478854,
+        "player_name": "Ryan Shea",
+        "team": "EDM",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476458,
+        "player_name": "Ryan Strome",
+        "team": "CGY",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482715,
+        "player_name": "Ryan Ufko",
+        "team": "NSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482751,
+        "player_name": "Ryan Winterton",
+        "team": "SEA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482858,
+        "player_name": "Ryker Evans",
+        "team": "SEA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477935,
+        "player_name": "Sam Bennett",
+        "team": "FLA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475842,
+        "player_name": "Sam Carrick",
+        "team": "BUF",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482118,
+        "player_name": "Sam Colangelo",
+        "team": "ANA",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484806,
+        "player_name": "Sam Dickinson",
+        "team": "SJS",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478043,
+        "player_name": "Sam Lafferty",
+        "team": "FLA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484258,
+        "player_name": "Sam Malinski",
+        "team": "COL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477933,
+        "player_name": "Sam Reinhart",
+        "team": "FLA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483506,
+        "player_name": "Sam Rinzel",
+        "team": "CHI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479351,
+        "player_name": "Sam Steel",
+        "team": "DAL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478104,
+        "player_name": "Samuel Blais",
+        "team": "OTT",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481035,
+        "player_name": "Samuel Ersson",
+        "team": "OTT",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479398,
+        "player_name": "Samuel Girard",
+        "team": "PIT",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482726,
+        "player_name": "Samuel Helenius",
+        "team": "LAK",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484180,
+        "player_name": "Samuel Honzek",
+        "team": "CGY",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483771,
+        "player_name": "Sandis Vilmanis",
+        "team": "FLA",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476872,
+        "player_name": "Scott Laughton",
+        "team": "LAK",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476429,
+        "player_name": "Scott Mayfield",
+        "team": "NYI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482666,
+        "player_name": "Scott Morrow",
+        "team": "NYR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477149,
+        "player_name": "Scott Sabourin",
+        "team": "TBL",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475809,
+        "player_name": "Scott Wedgewood",
+        "team": "COL",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476461,
+        "player_name": "Sean Couturier",
+        "team": "PHI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480434,
+        "player_name": "Sean Durzi",
+        "team": "NYR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476374,
+        "player_name": "Sean Kuraly",
+        "team": "BOS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477497,
+        "player_name": "Sean Monahan",
+        "team": "CBJ",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480336,
+        "player_name": "Sean Walker",
+        "team": "CAR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478427,
+        "player_name": "Sebastian Aho",
+        "team": "CAR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482657,
+        "player_name": "Sebastian Cossa",
+        "team": "UTA",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8473575,
+        "player_name": "Semyon Varlamov",
+        "team": "NYI",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475683,
+        "player_name": "Sergei Bobrovsky",
+        "team": "TOR",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483703,
+        "player_name": "Sergei Murashov",
+        "team": "PIT",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482093,
+        "player_name": "Seth Jarvis",
+        "team": "CAR",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477495,
+        "player_name": "Seth Jones",
+        "team": "FLA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482166,
+        "player_name": "Shakir Mukhamadullin",
+        "team": "EDM",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481596,
+        "player_name": "Shane Pinto",
+        "team": "OTT",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483524,
+        "player_name": "Shane Wright",
+        "team": "SEA,NSH",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476906,
+        "player_name": "Shayne Gostisbehere",
+        "team": "CAR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477447,
+        "player_name": "Shea Theodore",
+        "team": "VGK",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480326,
+        "player_name": "Sheldon Dries",
+        "team": "DET",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8471675,
+        "player_name": "Sidney Crosby",
+        "team": "PIT",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481122,
+        "player_name": "Simon Benoit",
+        "team": "PHI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481601,
+        "player_name": "Simon Holmstrom",
+        "team": "NYI",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483495,
+        "player_name": "Simon Nemec",
+        "team": "CGY",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480291,
+        "player_name": "Skyler Brind'Amour",
+        "team": "CAR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481519,
+        "player_name": "Spencer Knight",
+        "team": "CHI",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477484,
+        "player_name": "Spencer Martin",
+        "team": "NYR",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481056,
+        "player_name": "Spencer Stastney",
+        "team": "PIT",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476474,
+        "player_name": "Stefan Noesen",
+        "team": "NJD",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483676,
+        "player_name": "Stephen Halliday",
+        "team": "OTT",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478904,
+        "player_name": "Steven Lorentz",
+        "team": "CBJ",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8474564,
+        "player_name": "Steven Stamkos",
+        "team": "NSH",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479973,
+        "player_name": "Stuart Skinner",
+        "team": "WPG",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8486171,
+        "player_name": "T.J. Hughes",
+        "team": "COL",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479420,
+        "player_name": "Tage Thompson",
+        "team": "BUF",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479661,
+        "player_name": "Tanner Jeannot",
+        "team": "BOS",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475791,
+        "player_name": "Taylor Hall",
+        "team": "CAR",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482953,
+        "player_name": "Taylor Makar",
+        "team": "COL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479390,
+        "player_name": "Taylor Raddysh",
+        "team": "NYR",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483406,
+        "player_name": "Taylor Ward",
+        "team": "LAK",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476927,
+        "player_name": "Teddy Blueger",
+        "team": "TOR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476882,
+        "player_name": "Teuvo Teravainen",
+        "team": "CHI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484188,
+        "player_name": "Theo Lindstein",
+        "team": "STL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478469,
+        "player_name": "Thomas Chabot",
+        "team": "OTT",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481581,
+        "player_name": "Thomas Harley",
+        "team": "DAL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482116,
+        "player_name": "Tim Stützle",
+        "team": "OTT",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8485512,
+        "player_name": "Tim Washe",
+        "team": "ANA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478414,
+        "player_name": "Timo Meier",
+        "team": "NJD",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480043,
+        "player_name": "Timothy Liljegren",
+        "team": "WSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484240,
+        "player_name": "Tom Willander",
+        "team": "VAN",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476880,
+        "player_name": "Tom Wilson",
+        "team": "WSH",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476881,
+        "player_name": "Tomas Hertl",
+        "team": "VGK",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478438,
+        "player_name": "Tommy Novak",
+        "team": "PIT",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477950,
+        "player_name": "Tony DeAngelo",
+        "team": "NYI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478439,
+        "player_name": "Travis Konecny",
+        "team": "PHI",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484262,
+        "player_name": "Travis Mitchell",
+        "team": "ANA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477948,
+        "player_name": "Travis Sanheim",
+        "team": "PHI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479365,
+        "player_name": "Trent Frederic",
+        "team": "EDM",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484803,
+        "player_name": "Trevor Connelly",
+        "team": "VGK",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479675,
+        "player_name": "Trevor Moore",
+        "team": "LAK",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477845,
+        "player_name": "Trevor van Riemsdyk",
+        "team": "PIT",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481533,
+        "player_name": "Trevor Zegras",
+        "team": "PHI",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8485468,
+        "player_name": "Trey Taylor",
+        "team": "DAL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477465,
+        "player_name": "Tristan Jarry",
+        "team": "EDM",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483482,
+        "player_name": "Tristan Luneau",
+        "team": "ANA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479442,
+        "player_name": "Troy Stecher",
+        "team": "TOR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480848,
+        "player_name": "Ty Dellandrea",
+        "team": "SJS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480834,
+        "player_name": "Ty Emberson",
+        "team": "EDM",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481789,
+        "player_name": "Tye Kartye",
+        "team": "NYR",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477479,
+        "player_name": "Tyler Bertuzzi",
+        "team": "CHI",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482095,
+        "player_name": "Tyler Kleven",
+        "team": "OTT",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8474574,
+        "player_name": "Tyler Myers",
+        "team": "DAL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475752,
+        "player_name": "Tyler Pitlick",
+        "team": "MIN",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475794,
+        "player_name": "Tyler Seguin",
+        "team": "DAL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475726,
+        "player_name": "Tyler Toffoli",
+        "team": "SJS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482459,
+        "player_name": "Tyrel Bauer",
+        "team": "WPG",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482159,
+        "player_name": "Tyson Foerster",
+        "team": "PHI",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482731,
+        "player_name": "Tyson Hinds",
+        "team": "ANA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482896,
+        "player_name": "Tyson Kozak",
+        "team": "BUF",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480045,
+        "player_name": "Ukko-Pekka Luukkonen",
+        "team": "BUF",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484304,
+        "player_name": "Uvis Balinskis",
+        "team": "FLA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477501,
+        "player_name": "Valeri Nichushkin",
+        "team": "CBJ",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481617,
+        "player_name": "Vasily Podkolzin",
+        "team": "EDM",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8485388,
+        "player_name": "Victor Eklund",
+        "team": "NYI",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475167,
+        "player_name": "Victor Hedman",
+        "team": "TBL",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8483768,
+        "player_name": "Victor Mancini",
+        "team": "VAN",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478109,
+        "player_name": "Victor Olofsson",
+        "team": "VGK",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8486025,
+        "player_name": "Viggo Björck",
+        "team": "WPG",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478042,
+        "player_name": "Viktor Arvidsson",
+        "team": "DET",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481572,
+        "player_name": "Ville Heinola",
+        "team": "VGK",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478024,
+        "player_name": "Ville Husso",
+        "team": "ANA",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482758,
+        "player_name": "Ville Koivunen",
+        "team": "PIT",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482866,
+        "player_name": "Ville Ottavainen",
+        "team": "SEA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478407,
+        "player_name": "Vince Dunn",
+        "team": "SEA",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479576,
+        "player_name": "Vincent Desharnais",
+        "team": "WSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476389,
+        "player_name": "Vincent Trocheck",
+        "team": "UTA",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479968,
+        "player_name": "Vinni Lettieri",
+        "team": "TOR",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8486189,
+        "player_name": "Vitali Pinchuk",
+        "team": "NSH",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478882,
+        "player_name": "Vladislav Gavrikov",
+        "team": "NYR",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476480,
+        "player_name": "Vladislav Namestnikov",
+        "team": "WPG",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477998,
+        "player_name": "Warren Foegele",
+        "team": "OTT",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482157,
+        "player_name": "Will Cuylle",
+        "team": "NYR",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484227,
+        "player_name": "Will Smith",
+        "team": "SJS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478840,
+        "player_name": "William Borgen",
+        "team": "BOS",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477478,
+        "player_name": "William Carrier",
+        "team": "CAR",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482667,
+        "player_name": "William Eklund",
+        "team": "OTT",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476448,
+        "player_name": "William Karlsson",
+        "team": "VGK",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8477939,
+        "player_name": "William Nylander",
+        "team": "TOR",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482766,
+        "player_name": "William Stromgren",
+        "team": "CGY",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482806,
+        "player_name": "William Trudeau",
+        "team": "NSH",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482171,
+        "player_name": "William Wallinder",
+        "team": "DET",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482740,
+        "player_name": "Wyatt Johnston",
+        "team": "DAL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482176,
+        "player_name": "Wyatt Kaiser",
+        "team": "CHI",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482673,
+        "player_name": "Xavier Bourgault",
+        "team": "OTT",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478508,
+        "player_name": "Yakov Trenin",
+        "team": "MIN",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482165,
+        "player_name": "Yan Kuznetsov",
+        "team": "CGY",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476826,
+        "player_name": "Yanni Gourde",
+        "team": "TBL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482137,
+        "player_name": "Yaroslav Askarov",
+        "team": "SJS",
+        "position": "G",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8481068,
+        "player_name": "Yegor Sharangovich",
+        "team": "CGY",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484145,
+        "player_name": "Zach Benson",
+        "team": "BUF",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8474567,
+        "player_name": "Zach Bogosian",
+        "team": "MIN",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482784,
+        "player_name": "Zach Dean",
+        "team": "STL",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8475786,
+        "player_name": "Zach Hyman",
+        "team": "EDM",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484305,
+        "player_name": "Zach Metsa",
+        "team": "BUF",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8478460,
+        "player_name": "Zach Werenski",
+        "team": "CBJ",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8480727,
+        "player_name": "Zach Whitecloud",
+        "team": "CGY",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482737,
+        "player_name": "Zachary Bolduc",
+        "team": "MTL",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482742,
+        "player_name": "Zachary L'Heureux",
+        "team": "COL",
+        "position": "L",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8479772,
+        "player_name": "Zack MacEwen",
+        "team": "TOR",
+        "position": "R",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8482859,
+        "player_name": "Zack Ostapchuk",
+        "team": "SJS",
+        "position": "C",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484768,
+        "player_name": "Zayne Parekh",
+        "team": "CGY",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8484798,
+        "player_name": "Zeev Buium",
+        "team": "VAN",
+        "position": "D",
+        "season_id": 20262027
+    },
+    {
+        "player_id": 8476878,
+        "player_name": "Zemgus Girgensons",
+        "team": "TBL",
+        "position": "C",
+        "season_id": 20262027
+    }
+]

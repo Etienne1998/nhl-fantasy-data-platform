@@ -255,9 +255,12 @@ models/ros_availability/permutation_importance/
 models/ros_per_game/*.csv
 src/modeling/analyze_ros_availability_baseline.py
 
-# Allow only the weekly report ranking file in GitHub Actions
+# Allow only the files required by the weekly report in GitHub Actions
 !data/
 data/*
 !data/gold/
 data/gold/*
 !data/gold/available_player_rankings_2027.json
+!data/gold/player_performance_20262027.json
+!data/reference/
+!data/reference/nhl_players_20262027.json
