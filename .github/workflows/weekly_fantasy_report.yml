@@ -1,8 +1,14 @@
-
 name: Weekly NHL Fantasy Report
 
 on:
   workflow_dispatch:
+
+  schedule:
+    # 7:30 AM Montreal during standard time (UTC-5)
+    - cron: "30 12 * * 1"
+
+    # 7:30 AM Montreal during daylight saving time (UTC-4)
+    - cron: "30 11 * * 1"
 
 permissions:
   contents: read
@@ -15,24 +21,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Debug repository files
-        run: |
-          echo "Current directory:"
-          pwd
-
-          echo "Git commit:"
-          git log -1 --oneline
-
-          echo "Reference directory:"
-          ls -la data/reference/
-
-          echo "Gold directory:"
-          ls -la data/gold/
-
-          echo "Checking required files:"
-          test -f data/reference/nhl_players_20262027.json && echo "NHL reference FOUND" || echo "NHL reference MISSING"
-          test -f data/gold/player_performance_20262027.json && echo "Player performance FOUND" || echo "Player performance MISSING"  
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -41,19 +29,38 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Check Montreal local time
+        id: schedule
+        if: github.event_name == 'schedule'
+        run: |
+          HOUR=$(TZ=America/Montreal date +%H)
+          MINUTE=$(TZ=America/Montreal date +%M)
+
+          if [ "$HOUR" = "07" ] && [ "$MINUTE" = "30" ]; then
+            echo "send=true" >> "$GITHUB_OUTPUT"
+            echo "Confirmed: 7:30 AM in Montreal."
+          else
+            echo "send=false" >> "$GITHUB_OUTPUT"
+            echo "Skipping: not 7:30 AM in Montreal."
+          fi
+
       - name: Fetch ESPN available players
+        if: github.event_name == 'workflow_dispatch' || steps.schedule.outputs.send == 'true'
         env:
           ESPN_S2: ${{ secrets.ESPN_S2 }}
           ESPN_SWID: ${{ secrets.ESPN_SWID }}
         run: python src/ingestion/fetch_espn_available_players.py
 
       - name: Match ESPN players with NHL data
+        if: github.event_name == 'workflow_dispatch' || steps.schedule.outputs.send == 'true'
         run: python src/fantasy/match_espn_available_players.py
 
       - name: Rank available players
+        if: github.event_name == 'workflow_dispatch' || steps.schedule.outputs.send == 'true'
         run: python src/fantasy/rank_available_players.py
 
       - name: Generate and send weekly report
+        if: github.event_name == 'workflow_dispatch' || steps.schedule.outputs.send == 'true'
         env:
           MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
           MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
