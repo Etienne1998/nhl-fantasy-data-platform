@@ -15,6 +15,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Debug repository files
+        run: |
+          echo "Current directory:"
+          pwd
+
+          echo "Git commit:"
+          git log -1 --oneline
+
+          echo "Reference directory:"
+          ls -la data/reference/
+
+          echo "Gold directory:"
+          ls -la data/gold/
+
+          echo "Checking required files:"
+          test -f data/reference/nhl_players_20262027.json && echo "NHL reference FOUND" || echo "NHL reference MISSING"
+          test -f data/gold/player_performance_20262027.json && echo "Player performance FOUND" || echo "Player performance MISSING"  
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
