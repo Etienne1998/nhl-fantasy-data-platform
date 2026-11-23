@@ -29,19 +29,19 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Check Montreal local time
+            - name: Check Montreal local time
         id: schedule
         if: github.event_name == 'schedule'
         run: |
           HOUR=$(TZ=America/Montreal date +%H)
           MINUTE=$(TZ=America/Montreal date +%M)
 
-          if [ "$HOUR" = "07" ] && [ "$MINUTE" = "30" ]; then
+          if [ "$HOUR" = "07" ] && [ "$MINUTE" -ge 30 ] && [ "$MINUTE" -le 44 ]; then
             echo "send=true" >> "$GITHUB_OUTPUT"
-            echo "Confirmed: 7:30 AM in Montreal."
+            echo "Confirmed: within the 7:30-7:44 AM Montreal window."
           else
             echo "send=false" >> "$GITHUB_OUTPUT"
-            echo "Skipping: not 7:30 AM in Montreal."
+            echo "Skipping: outside the scheduled window."
           fi
 
       - name: Fetch ESPN available players
