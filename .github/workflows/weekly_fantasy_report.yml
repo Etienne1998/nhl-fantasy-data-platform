@@ -1,3 +1,4 @@
+
 name: Weekly NHL Fantasy Report
 
 on:
@@ -19,8 +20,20 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install timezone database
-        run: pip install tzdata
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch ESPN available players
+        env:
+          ESPN_S2: ${{ secrets.ESPN_S2 }}
+          ESPN_SWID: ${{ secrets.ESPN_SWID }}
+        run: python src/ingestion/fetch_espn_available_players.py
+
+      - name: Match ESPN players with NHL data
+        run: python src/fantasy/match_espn_available_players.py
+
+      - name: Rank available players
+        run: python src/fantasy/rank_available_players.py
 
       - name: Generate and send weekly report
         env:
